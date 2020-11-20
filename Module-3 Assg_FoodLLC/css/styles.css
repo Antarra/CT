@@ -1,0 +1,142 @@
+
+h2 {
+  font-family: 'Calibri', sans serif;
+  font-weight: bold;
+
+  font-size: 1.74em;
+  margin-bottom: 14px;
+   
+  position: relative;
+  color: #8B0000
+}
+
+section{
+  position: relative;
+  background-color: #f6b319;
+  height: 244px;
+  margin: 0px 14px 24px 14px;
+  padding-top: 0px;
+  padding-left: 24px;
+  padding-right:24px;
+  padding-bottom:0px;
+  font-family: 'Calibri', sans serif;
+  color: #8B0000;
+ 
+}
+
+p {
+   
+  height: 44px;
+  margin: 4px 14px 0px 14px;
+  text-align: center;
+  background-color: #f6b319;
+  padding-top: 14px;
+  padding-left: 0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  position: relative;
+ 
+   
+}
+
+#p1 {
+  
+  font-family: 'Calibri', sans serif;
+  font-size: 1.4em;
+  color: #8B0000;
+  font-weight: bold;
+  
+   
+}
+
+#p2 {
+   
+  font-family: 'Calibri', sans serif;
+  font-size: 1.4em;
+  color: #8B0000;
+  font-weight: bold;
+}
+
+#p3 {
+   
+  font-family: 'Calibri', sans serif;
+  font-size: 1.4em;
+  color: #8B0000;
+  font-weight: bold;
+}
+
+
+ 
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 1px solid black;
+  width: 100%;
+  margin-bottom: 14px;
+
+}
+
+.navbar-brand {
+  padding-top: auto;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  height: 84px;
+}
+
+.navbar-brand h1 {  
+  font-family: 'calibri', sans serif;
+  color: maroon;
+  font-size: 1.74em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: -14px;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1; 
+  padding-top: 24px;
+  padding-bottom: auto;
+  padding-left: 0px;
+  }
+ 
+#nav-list {
+  margin-top: 10px;
+  padding: 0px;
+ }
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  background-color: white;
+  border: 1px solid gray;
+  margin: -10px 0px -8px 0px;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+ 
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -60px;
+  margin-bottom: auto;
+ 
+}
+
+  #collapsable-nav a {  
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span {  
+    font-size: 1em;
+    margin-right: 5px;
+ 
+  
+}
+
